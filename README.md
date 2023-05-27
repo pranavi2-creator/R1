@@ -41,27 +41,27 @@ My first repo
 <body>
   <div class="dashboard">
     <div class="widget">
-      <h2>Widget 1</h2>
+      <h2>Notifications and emails</h2>
       <p>Content for Widget 1</p>
     </div>
     <div class="widget">
-      <h2>Widget 2</h2>
+      <h2>Calender</h2>
       <p>Content for Widget 2</p>
     </div>
     <div class="widget">
-      <h2>Widget 3</h2>
+      <h2>To Do List</h2>
       <p>Content for Widget 3</p>
     </div>
     <div class="widget">
-      <h2>Widget 4</h2>
+      <h2>Budget Tracker</h2>
       <p>Content for Widget 4</p>
     </div>
     <div class="widget">
-      <h2>Widget 5</h2>
+      <h2>Weather</h2>
       <p>Content for Widget 5</p>
     </div>
     <div class="widget">
-      <h2>Widget 6</h2>
+      <h2>week timeline</h2>
       <p>Content for Widget 6</p>
     </div>
   </div>
