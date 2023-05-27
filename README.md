@@ -4,7 +4,7 @@ My first repo
 <html>
 <head>
   <title>Dashboard</title>
-<!--  <style>
+  <style>
     body {
       font-family: Arial, sans-serif;
       margin: 0;
@@ -36,7 +36,7 @@ My first repo
       margin-bottom: 0;
       font-size: 18px;
     }
-  </style> -->
+  </style> 
 </head>
 <body>
   <div class="dashboard">
